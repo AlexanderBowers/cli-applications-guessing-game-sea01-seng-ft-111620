@@ -9,3 +9,5 @@ def run_guessing_game
     return nil
   else
     puts "Sorry! The computer guessed #{number}"
+  end
+end
