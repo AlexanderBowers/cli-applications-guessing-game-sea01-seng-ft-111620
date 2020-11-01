@@ -8,7 +8,7 @@ if input == "exit"
 end
 
 if input != number
-  puts "Sorry! The computer guessed #{nuumber}"
+  puts "Sorry! The computer guessed #{number}"
 end
 
   if input == number
