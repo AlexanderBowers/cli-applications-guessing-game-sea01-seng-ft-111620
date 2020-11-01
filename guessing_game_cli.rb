@@ -11,5 +11,4 @@ def run_guessing_game
     return nil
   elsif input != number
     puts "Sorry! The computer guessed #{number}"
-    
 end
