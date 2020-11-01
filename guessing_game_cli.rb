@@ -10,3 +10,4 @@ elsif input != number
 elsif input == "exit"
   puts "Goodbye!"
 end
+end
