@@ -7,6 +7,10 @@ if input == "exit"
   puts "Goodbye!"
 end
 
+if input != number
+  puts "Sorry! The computer guessed #{nuumber}"
+end
+
   if input == number
     puts "You guessed the correct number!"
 
