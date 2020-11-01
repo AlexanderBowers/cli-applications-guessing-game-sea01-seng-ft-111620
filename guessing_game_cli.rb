@@ -13,8 +13,6 @@ end
 
   if input == number
     puts "You guessed the correct number!"
-
-
   end
 
 end
